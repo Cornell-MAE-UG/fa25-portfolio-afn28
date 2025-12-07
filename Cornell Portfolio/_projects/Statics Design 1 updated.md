@@ -37,4 +37,5 @@ Subsequent design decisions, such as the specific length of the bar, were chosen
 For futher analysis, I explored how the beam would bend under loading, which can be viewed below.
 Essentially, maximum bending would occur under a horizontal loading scenario with the applied weight halfway along the length of the bar.
 
+To see my full analysis, view the file below.
 Full design: [Downloadable]({{ "/assets/Linear Actuator Design.pdf" | relative_url }}) in PDF format.

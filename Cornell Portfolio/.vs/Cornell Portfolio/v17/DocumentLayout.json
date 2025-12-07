@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_projects\\Statics Design 1 updated.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\Statics Design 1 updated.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_sass\\custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_sass\\custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\assets\\css\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_sass\\_custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_sass\\_custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-07T20:42:06.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "custom.scss",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_sass\\custom.scss",
-              "RelativeDocumentMoniker": "_sass\\custom.scss",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_sass\\custom.scss",
-              "RelativeToolTip": "_sass\\custom.scss",
+              "Title": "_custom.scss",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_sass\\_custom.scss",
+              "RelativeDocumentMoniker": "_sass\\_custom.scss",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_sass\\_custom.scss",
+              "RelativeToolTip": "_sass\\_custom.scss",
               "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-12-07T16:18:56.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "projects.md",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_pages\\projects.md",
-              "RelativeDocumentMoniker": "_pages\\projects.md",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_pages\\projects.md",
-              "RelativeToolTip": "_pages\\projects.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-07T16:18:38.028Z"
+              "WhenOpened": "2025-12-07T16:18:56.571Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "main.scss",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\assets\\css\\main.scss",
+              "RelativeDocumentMoniker": "assets\\css\\main.scss",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\assets\\css\\main.scss",
+              "RelativeToolTip": "assets\\css\\main.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-12-07T20:46:04.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Statics Design 1 updated.md",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_projects\\Statics Design 1 updated.md",
               "RelativeDocumentMoniker": "_projects\\Statics Design 1 updated.md",
               "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub school\\Cornell Portfolio\\_projects\\Statics Design 1 updated.md",
               "RelativeToolTip": "_projects\\Statics Design 1 updated.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAACJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-12-07T04:17:54.832Z",
               "EditorCaption": ""

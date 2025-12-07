@@ -3,11 +3,8 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\_layouts",
-    "\\_pages",
-    "\\_projects",
     "\\_sass"
   ],
-  "SelectedNode": "\\_sass\\custom.scss",
+  "SelectedNode": "\\_sass\\_custom.scss",
   "PreviewInSolutionExplorer": false
 }
