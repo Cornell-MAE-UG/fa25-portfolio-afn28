@@ -13,7 +13,7 @@ image: /assets/images/linear_actuator_design.png
 ## Design Constraints
 - 2D design space 150 cm wide and 50 cm tall
 - Bar of fixed length
-- 3 pin supports with two needing to be mouted on the ground
+- 3 pin supports with two needing to be mounted on the ground
 
 ## Objective
 - Create a mechanism can lift the maximum possible weight to the highest possible height
