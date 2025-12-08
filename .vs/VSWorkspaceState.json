@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\images",
-    "\\_layouts",
-    "\\_pages",
-    "\\_projects"
+    "\\assets\\css",
+    "\\_sass"
   ],
+  "SelectedNode": "\\_sass\\_custom.scss",
   "PreviewInSolutionExplorer": false
 }
