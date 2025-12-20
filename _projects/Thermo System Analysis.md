@@ -50,6 +50,8 @@ $$
 
 For this model, it makes sense to neglect heat transfer, as a turbine can be reasonably modeled as adiabatic without significantly affecting its operation, meaning the \(Q\) term can be dropped. 
 
+![Diagram]({{ "/assets/images/thermo ec/labeled_diagram.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
+
 $$
 0 = \dot{m} \, (s_\text{in} - s_\text{out}) + \sigma_\text{gen}
 $$

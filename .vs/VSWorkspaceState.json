@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\_layouts",
+    "\\_pages",
     "\\_projects"
   ],
-  "SelectedNode": "\\_projects\\Statics Design 1.md",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
