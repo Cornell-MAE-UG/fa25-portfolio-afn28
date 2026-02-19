@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
+    "\\assets\\css",
+    "\\assets\\images",
     "\\_layouts",
     "\\_pages",
-    "\\_projects"
+    "\\_projects",
+    "\\_sass"
   ],
-  "SelectedNode": "\\index.md",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
