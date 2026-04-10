@@ -2,7 +2,7 @@
 layout: project
 title: SLF Client Pitch
 description: MAE 2250 Client Pitch
-image: /assets/images/slf.jpg
+image: /assets/images/slf/slf.jpg
 ---
 
 # Mechanical Removal of Spotted Lanternfly Egg Masses
