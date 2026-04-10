@@ -29,6 +29,16 @@ $color_scheme: '{{ site.color_scheme }}';
     margin: 0 auto;
 }
 
+.gallery-item {
+    padding: 10px 10px;
+    transition: all 0.3s ease;
+}
+
+.gallery-item.highlight {
+    background-color: rgba(128, 179, 255, 0.25);
+    transform: scale(1.03);
+}
+
 img {
     margin-top: 20px;
     margin-bottom: 20px;

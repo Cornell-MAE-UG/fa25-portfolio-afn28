@@ -53,7 +53,7 @@ Conclusions: Our current scraper geometry is effective on smooth surfaces; it ha
 - Procedure: During the efficacy trials, we conducted a visual audit of the debris capture rate. 
 - Conclusions: This means that the scraper geometry we have has thick enough walls and is strong enough for our purposes.
 
-- **Success Criteria**
+**Success Criteria**
 Context: Our project is a scraper designed to remove spotted lanternfly egg masses from surfaces such as walls, trees, and other outdoor structures while collecting the removed material. The egg masses are about 0.5g and 1.5in long. Our product is specifically excellent targeting masses located out of normal reach. Our functional prototype is a high-reach, pole-mounted mechanical scraper designed to replace manual scraping methods.
 
 1. Scraping efficiency
