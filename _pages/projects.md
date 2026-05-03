@@ -6,13 +6,21 @@ permalink: /projects/
 
 <div class="gallery-container">
   <div class="project-gallery">
+    <div class="gallery-item">
+      <a href="{{ "/projects/slf-design-project-mae-2250/" | relative_url }}">
+        <img src="{{ "/assets/images/slf/slf.jpg" | relative_url }}" alt="SLF Design Project MAE 2250" />
+        <p>SLF Design Project MAE 2250</p>
+      </a>
+    </div>
     {% for project in site.projects %}
-      <div class="gallery-item">
-        <a href="{{ project.url | relative_url }}">
-          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
-          <p>{{ project.title }}</p>
-        </a>
-      </div>
+      {% unless project.title == "SLF Client Pitch" or project.title == "SLF Functional Prototype" %}
+        <div class="gallery-item">
+          <a href="{{ project.url | relative_url }}">
+            <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
+            <p>{{ project.title }}</p>
+          </a>
+        </div>
+      {% endunless %}
     {% endfor %}
   </div>
 </div>
