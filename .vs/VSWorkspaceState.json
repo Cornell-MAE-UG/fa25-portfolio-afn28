@@ -4,11 +4,12 @@
     "\\assets",
     "\\assets\\css",
     "\\assets\\images",
+    "\\assets\\images\\slf",
     "\\_layouts",
     "\\_pages",
     "\\_projects",
     "\\_sass"
   ],
-  "SelectedNode": "\\_layouts\\project.html",
+  "SelectedNode": "\\assets\\css\\main.scss",
   "PreviewInSolutionExplorer": false
 }
