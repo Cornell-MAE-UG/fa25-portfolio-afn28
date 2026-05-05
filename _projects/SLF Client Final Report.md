@@ -5,8 +5,11 @@ description: MAE 2250 Final Report
 image: /assets/images/slf/slf.jpg
 ---
 
-# High-Reach Mechanical Scraper: Engineering an Accessible Solution for Spotted Lanternfly Egg Mass Removal
-### Blue Team: Andrew Nocilly, Cole Finnan, Mehrab Hossain, Tyson Russell
+<div class="info-box" style="border-left-color: #0077cc; background:#f2f7ff;">
+  <h3 style="color: black;">Client Report</h3>
+  <p style="color: black;">High-Reach Mechanical Scraper: Engineering an Accessible Solution for Spotted Lanternfly Egg Mass Removal</p>
+  <p style="color: black;">Blue Team: Andrew Nocilly, Cole Finnan, Mehrab Hossain, Tyson Russell</p>
+</div>
 
 ## Context and Problem Statement
 Spotted Lanternfly (SLF) egg masses represent a critical vector for the invasive species' proliferation, posing a severe economic threat to viticulture and agricultural industries.
