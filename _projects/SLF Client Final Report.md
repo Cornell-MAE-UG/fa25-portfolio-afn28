@@ -56,6 +56,9 @@ The current prototype was developed at a total cost of $263.56. While this figur
 
 With all that being said, the prototype is ready to enter field testing in more realistic conditions, and to be modified with more input from clientele who know what they want from the device. We recommend proceeding directly to live field trials in outdoor agricultural conditions to acquire real-world efficacy data against actual SLF egg masses and to monitor user fatigue over a full work shift. Future development should focus on minor geometric iterations to the scraper head to optimize it for highly irregular host-plant surfaces, as well as the development of modular attachments, such as localized chemical sprayers or wire brushes, to expand the tool's functional scope across different seasons.
 
+### Research Poster
+[Download]({{ "/assets/SLF Poster.pdf" | relative_url }}) in PDF format.
+
 ### References
 1. [NJ.gov, "Spotted Lanternfly Management"](https://www.nj.gov/agriculture/divisions/pi/prog/pests-diseases/spotted-lanternfly/)
 2. [The Spotted Lanternfly Project, "How to Remove Spotted Lanternfly Eggs"](https://lanternflies.org/removal/)
