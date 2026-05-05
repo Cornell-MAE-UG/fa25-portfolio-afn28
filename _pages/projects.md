@@ -13,7 +13,7 @@ permalink: /projects/
       </a>
     </div>
     {% for project in site.projects %}
-      {% unless project.title == "SLF Client Pitch" or project.title == "SLF Functional Prototype" %}
+      {% unless project.title == "SLF Client Pitch" or project.title == "SLF Functional Prototype" or project.title == "SLF Client Final Report" %}
         <div class="gallery-item">
           <a href="{{ project.url | relative_url }}">
             <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
