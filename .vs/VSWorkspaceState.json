@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\assets\\css",
     "\\assets\\images",
     "\\assets\\images\\slf",
@@ -9,5 +10,6 @@
     "\\_projects",
     "\\_sass"
   ],
+  "SelectedNode": "\\_sass\\_custom.scss",
   "PreviewInSolutionExplorer": false
 }
