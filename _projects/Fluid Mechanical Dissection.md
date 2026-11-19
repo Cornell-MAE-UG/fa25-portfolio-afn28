@@ -7,7 +7,7 @@ image: /assets/images/intro_fl.jpg
 
 <div class="info-box" style="border-left-color: #0077cc; background:#f2f7ff;">
   <h3 style="color: black;">Project Outline</h3>
-  <p style="color: black;">In Fluid Mechanics class... </p>
+  <p style="color: black;">In Fluid Mechanics class, we were assigned the task of dissecting (taking apart) an old weedwhacker.</p>
 </div>
 
 ## Overview
